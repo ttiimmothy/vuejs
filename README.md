@@ -113,4 +113,4 @@ Thank you to all the people who already contributed to Vue!
 
 ## License
 
-Vuejs is under [GNU General Public License v3.0](LICENSE).
+Vuejs is licensed under [GNU General Public License v3.0](LICENSE).
